@@ -1,8 +1,8 @@
-# Shortest Ppath Algorithm
+# Shortest Path Problem
 
 ## Introduction
 
-A Java implementation of several shortest path algorithms that include the generic label-correcting algorithm and four modified label-correcting algorithms:
+A Java implementation of the generic label-correcting algorithm and four modified label-correcting algorithms that solve the shortest path problem:
 
 * [Abstract Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/AbstractAlgorithm.java)
   * [Generic Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/GenericAlgorithm.java)

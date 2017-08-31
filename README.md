@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Java implementation of several shortest path algorithms that include the generic label-correcting algorithm and 4 modified label-correcting algorithms:
+A Java implementation of several shortest path algorithms that include the generic label-correcting algorithm and four modified label-correcting algorithms:
 
 * [Abstract Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/AbstractAlgorithm.java)
   * [Generic Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/GenericAlgorithm.java)
@@ -12,9 +12,9 @@ A Java implementation of several shortest path algorithms that include the gener
   * [Dequeue](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/DequeAlgorithm.java)
   * [Minimal Distance Label](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/MinimumDistanceAlgorithm.java)
 
-All algorithms are able to detect and report negative cycles based on the Moore-Bellman-Ford algorithm.
+All algorithms could detect and report negative cycles based on the Moore-Bellman-Ford algorithm.
 
-Moreover, the repository also includes an [algortihm analysis report](https://github.com/shunfan/shortest-path-algorithm/blob/master/report.pdf) that describes the implementation details, performance comparison, and how it handles negative cycles.
+Moreover, the repository also includes an [algorithm analysis report](https://github.com/shunfan/shortest-path-algorithm/blob/master/report.pdf) that describes the implementation details, performance comparison, and how it handles negative cycles.
 
 ## Other
 

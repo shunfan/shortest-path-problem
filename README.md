@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A Java implementation of shortest path algorithms that includes the generic label-correcting algorithm and 4 modified label-correcting algorithms:
+A Java implementation of several shortest path algorithms that include the generic label-correcting algorithm and 4 modified label-correcting algorithms:
 
 * [Abstract Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/AbstractAlgorithm.java)
   * [Generic Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/GenericAlgorithm.java)

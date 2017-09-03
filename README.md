@@ -6,11 +6,11 @@ A Java implementation of the generic label-correcting algorithm and four modifie
 
 * [Abstract Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/AbstractAlgorithm.java)
   * [Generic Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/GenericAlgorithm.java)
-* [Modified Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/ModifiedAlgorithm.java)
-  * [Queue (FIFO)](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/FIFOAlgorithm.java)
-  * [Stack](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/StackAlgorithm.java)
-  * [Dequeue](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/DequeAlgorithm.java)
-  * [Minimal Distance Label](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/MinimumDistanceAlgorithm.java)
+  * [Modified Label-Correcting Algorithm](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/ModifiedAlgorithm.java)
+    * [Queue (FIFO)](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/FIFOAlgorithm.java)
+    * [Stack](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/StackAlgorithm.java)
+    * [Dequeue](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/DequeAlgorithm.java)
+    * [Minimal Distance Label](https://github.com/shunfan/shortest-path-algorithm/blob/master/src/algorithms/MinimumDistanceAlgorithm.java)
 
 All algorithms could detect and report negative cycles based on the Moore-Bellman-Ford algorithm.
 
